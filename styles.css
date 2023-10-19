@@ -1,5 +1,5 @@
 body{
-    background-color: lightcyanw;
+    background-color: lightskyblue;
     font-family:'Times New Roman', Times, serif
 }
 h1{
@@ -10,7 +10,7 @@ h1{
     display: flex;
     margin: 10px;
     padding: 10px;
-    background: lightskyblue ;
+    background: lightcyan ;
 }
 .assign img {
     width: 200px;
