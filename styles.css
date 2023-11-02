@@ -6,15 +6,21 @@ h1{
     color: black;
     text-align: center;
 }
+a{
+    text-decoration: none;
+    color: midnightblue;
+}
 .assign{
     display: flex;
     margin: 10px;
     padding: 10px;
     background: lightcyan ;
+    border-radius: 20px;
 }
 .assign img {
     width: 200px;
     padding: 10px;
+    
     }
 
 
