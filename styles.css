@@ -13,7 +13,7 @@ h1 {
 }
 
 h1:hover {
-    color: hotpink;
+    color: white;
     text-align: center;
     width: 100%;
     display: block;
@@ -42,8 +42,7 @@ a {
     margin-left: auto;
     margin-right: auto;
     width: 50%;
-  
-    border: 2px solid rgb(255, 255, 255);
+    border: 2px solid rgb(39, 0, 75);
 }
 
   .assign img:hover {
